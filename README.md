@@ -6,7 +6,6 @@
 
 ## 🔧 Technologies I Work With
 - Java
-- ReactJs
 - HTML/CSS
 - SQL
 - Laravel
